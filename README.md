@@ -1,8 +1,8 @@
 # ni88fury_bot
 
-A macOS-friendly YouTube Live companion for chat automation, audio alerts, viewer welcomes, and OBS overlays.
+A macOS-friendly YouTube Live companion for chat automation, audio alerts, viewer welcomes, and OBS overlays, simulate key-press.
 
-ni88fury_bot helps streamers turn live chat into a more interactive part of the broadcast. It connects to YouTube Live, responds to viewers, plays sounds, triggers media, and displays custom browser-source experiences in OBS.
+ni88fury_bot helps streamers turn live chat into a more interactive part of the broadcast. It connects to YouTube Live, responds to viewers, plays sounds, triggers media, and displays custom browser-source experiences in OBS and simulate custom keypress. The app is totally free to use.
 
 #screenshots
 

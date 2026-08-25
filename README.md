@@ -13,7 +13,7 @@ ni88fury_bot helps streamers turn live chat into a more interactive part of the 
 <img width="1059" height="703" alt="Screenshot 2026-08-25 at 5 05 50 PM" src="https://github.com/user-attachments/assets/2792f772-7a77-4aa1-92f2-1d17de52b87c" />
 
 # imp
-The bot replies you see in the screenshots are based in the name of the app you give in the app settings. The bot will be posting on your youtube channel name during a real live stream and not as "ni88fury bot"
+The bot replies you see in the screenshots are based on the "bot name" you give in the app settings. The bot will be posting under your youtube channel name during a real live stream and not as "ni88fury bot". For example if your channel name is "abc", the bot replies will be done under the name "abc".
 
 ## Features
 

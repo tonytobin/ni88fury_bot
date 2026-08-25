@@ -44,16 +44,14 @@ The bot replies you see in the screenshots are based in the name of the app you 
 - Movie-style end credits showing unique viewers from the livestream.
 - Viewer participation highlights based on message count.
 - Support for custom image, GIF, video, and HTML overlays.
-- Responsive Textual interface that works across terminal sizes.
-- Standalone macOS app build for users who do not want to use Python or the terminal.
 
-Everything is managed through the in-app configuration screens.
+Everything is managed through the in-app configuration.
 
 ## Getting Started
 
 ### Standalone macOS App
 
-Download the latest release from the [Releases](../../releases) page.
+Download the latest release from the Releases page.
 
 1. Extract the downloaded zip file.
 2. Move `Ni88Fury Bot.app` to your Applications folder.
@@ -76,7 +74,7 @@ From the welcome screen:
 4. Complete the Google authorization flow in your browser.
 5. Select one of your active livestreams.
 
-Your OAuth token is stored locally on your computer and is not included in shared app releases.
+Your OAuth token is stored locally on your computer will never be shared with me or anyone.
 
 ## OBS Overlays
 

@@ -1,8 +1,8 @@
 # ni88fury_bot
 
-A macOS-friendly YouTube Live companion for chat automation, audio alerts, viewer welcomes, and OBS overlays, simulate key-press.
+A macOS-friendly YouTube Live companion for chat automation, audio alerts, viewer welcomes, and OBS overlays, simulate key-press, interactive Mini Games for viewers.
 
-ni88fury_bot helps streamers turn live chat into a more interactive part of the broadcast. It connects to YouTube Live, responds to viewers, plays sounds, triggers media, and displays custom browser-source experiences in OBS and simulate custom keypress. The app is totally free to use.
+ni88fury_bot helps streamers turn live chat into a more interactive part of the broadcast. It connects to YouTube Live, responds to viewers, allows viewers to play mini games, plays sounds, triggers media, and displays custom browser-source experiences in OBS and simulate custom keypress. The app is totally free to use.
 
 #screenshots
 
@@ -11,6 +11,21 @@ ni88fury_bot helps streamers turn live chat into a more interactive part of the 
 <img width="1060" height="688" alt="Screenshot 2026-08-25 at 5 05 35 PM" src="https://github.com/user-attachments/assets/8ba1bcc8-002e-47e3-9917-ca6b86ad2270" />
 
 <img width="1059" height="703" alt="Screenshot 2026-08-25 at 5 05 50 PM" src="https://github.com/user-attachments/assets/2792f772-7a77-4aa1-92f2-1d17de52b87c" />
+
+<img width="2306" height="1624" alt="Screenshot 2026-09-14 at 3 55 45 PM" src="https://github.com/user-attachments/assets/1a7d3519-2506-4475-9b0d-71379fd28215" />
+
+<img width="2298" height="1618" alt="Screenshot 2026-09-14 at 3 56 01 PM" src="https://github.com/user-attachments/assets/9827e2d3-a4f9-43ba-aae0-cb9e641b29b3" />
+
+<img width="2606" height="1502" alt="Screenshot 2026-09-14 at 3 58 32 PM" src="https://github.com/user-attachments/assets/d555f99d-4f2d-4e52-a43a-4ef1b08c293c" />
+
+<img width="776" height="764" alt="Screenshot 2026-09-14 at 3 59 22 PM" src="https://github.com/user-attachments/assets/7909c43c-e4c3-439b-9c13-c5b8ebe467e6" />
+
+<img width="794" height="734" alt="Screenshot 2026-09-14 at 3 59 38 PM" src="https://github.com/user-attachments/assets/e0127125-801c-4495-aa2b-54346ea47423" />
+
+<img width="2286" height="1616" alt="Screenshot 2026-09-14 at 4 00 22 PM" src="https://github.com/user-attachments/assets/83069f1e-eef4-4104-a14b-8aeb0a918086" />
+
+
+
 
 # imp
 The bot replies you see in the screenshots are based on the "bot name" you give in the app settings. The bot will be posting under your youtube channel name during a real live stream and not as "ni88fury bot". For example if your channel name is "abc", the bot replies will be done under the name "abc".
@@ -83,11 +98,14 @@ The app runs a local browser-source server for OBS.
 Example overlay URLs:
 
 ```
-http://127.0.0.1:8765/overlay.html?mode=subscribers
-http://127.0.0.1:8765/overlay.html?mode=media
-http://127.0.0.1:8765/overlay.html?mode=welcome
-http://127.0.0.1:8765/overlay.html?mode=win-streak
-http://127.0.0.1:8765/overlay.html?mode=end-credits
+http://127.0.0.1:8765/overlay.html?mode=subscribers                                                             
+http://127.0.0.1:8765/overlay.html?mode=media                                                                         
+http://127.0.0.1:8765/overlay.html?mode=win-streak                                                               
+http://127.0.0.1:8765/overlay.html?mode=welcome                                                             
+http://127.0.0.1:8765/overlay.html?mode=end-credits                                                             
+http://127.0.0.1:8765/overlay.html?mode=shoutout                                                                 
+http://127.0.0.1:8765/overlay.html?mode=games                                                                         
+http://127.0.0.1:8765/overlay.html?mode=deck  
 ```
 Add each URL as an OBS Browser Source. The app displays the available overlay URLs in the interface.
 

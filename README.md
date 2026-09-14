@@ -4,9 +4,9 @@ A macOS-friendly YouTube Live companion for chat automation, audio alerts, viewe
 
 ni88fury_bot helps streamers turn live chat into a more interactive part of the broadcast. It connects to YouTube Live, responds to viewers, allows viewers to play mini games, plays sounds, triggers media, and displays custom browser-source experiences in OBS and simulate custom keypress. The app is totally free to use.
 
-#screenshots
+##screenshots
 
-<img width="1058" height="687" alt="Screenshot 2026-08-25 at 5 05 05 PM" src="https://github.com/user-attachments/assets/851b9194-6187-4eb1-b551-fb33933d2fc4" />
+<img width="2290" height="1572" alt="Screenshot 2026-09-14 at 4 07 10 PM" src="https://github.com/user-attachments/assets/9b41fb53-fd1e-42bd-b488-fb49e92c9fad" />
 
 <img width="1060" height="688" alt="Screenshot 2026-08-25 at 5 05 35 PM" src="https://github.com/user-attachments/assets/8ba1bcc8-002e-47e3-9917-ca6b86ad2270" />
 
